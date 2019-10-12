@@ -6,6 +6,7 @@
 
 [![CircleCI](https://circleci.com/gh/libra/libra.svg?style=shield)](https://circleci.com/gh/libra/libra)
 [![License](https://img.shields.io/badge/license-Apache-green.svg)](LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fblubfoo%2Flibra.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fblubfoo%2Flibra?ref=badge_shield)
 
 Libra Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.
 
@@ -62,3 +63,6 @@ Read our [Contributing guide](https://developers.libra.org/docs/community/contri
 ## License
 
 Libra Core is licensed as [Apache 2.0](https://github.com/libra/libra/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fblubfoo%2Flibra.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fblubfoo%2Flibra?ref=badge_large)
